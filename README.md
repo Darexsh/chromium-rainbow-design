@@ -8,7 +8,19 @@ Includes a subtle rainbow accent line on the bookmarks bar.
 
 * * *
 
-📥 Installation
+⚡ Quick Install
+---------------
+
+1. Clone or [download this repo](#).
+    
+2. Open Chrome → `Settings` → `Extensions` → enable **Developer mode**.
+    
+3. Click **Load unpacked** → select this repo’s folder → ✅ Done!
+    
+
+* * *
+
+📥 Detailed Installation
 ---------------
 
 1. **Open your browser**
