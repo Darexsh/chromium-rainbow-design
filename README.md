@@ -1,10 +1,9 @@
 * * *
 
-🌈 Google Chrome Rainbow Dark Design
-====================================
+Chromium Rainbow Dark Design
+============================
 
-A custom **dark theme for Google Chrome** (also works on **Firefox Nightly Dev builds**).  
-Includes a subtle rainbow accent line on the bookmarks bar.
+A custom **dark theme for Chromium-based browsers** (Chrome, Edge, Brave, and others) with a subtle rainbow accent line on the bookmarks bar. Also compatible with **Firefox Nightly Dev builds**.
 
 * * *
 
@@ -13,7 +12,7 @@ Includes a subtle rainbow accent line on the bookmarks bar.
 
 1. Clone or [download this repo](#).
     
-2. Open Chrome → `Settings` → `Extensions` → enable **Developer mode**.
+2. Open your browser → `Settings` → `Extensions` → enable **Developer mode**.
     
 3. Click **Load unpacked** → select this repo’s folder → ✅ Done!
     
@@ -21,13 +20,13 @@ Includes a subtle rainbow accent line on the bookmarks bar.
 * * *
 
 📥 Detailed Installation
----------------
+------------------------
 
 1. **Open your browser**
     
-    * Works on **Google Chrome**
+    * Works on **Chromium-based browsers** (Chrome, Edge, Brave, etc.)
         
-    * Also works on **Firefox Nightly (Dev builds only)**
+    * Also works on **Firefox Nightly Dev builds**
         
 2. **Enable Developer Mode**
     
@@ -71,7 +70,7 @@ Your browser should now have a **dark theme with a rainbow accent** 🌈
 📝 Notes
 --------
 
-* This theme is intended for **Chrome-based browsers** and **Firefox Nightly Dev** only.
+* This theme is intended for **Chromium-based browsers** and **Firefox Nightly Dev** only.
     
 * Always load the **entire directory** (not just single files).
     
