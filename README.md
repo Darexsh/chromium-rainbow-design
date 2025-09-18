@@ -8,7 +8,7 @@
 **A custom dark theme with a rainbow accent line on the bookmarks bar**  
 🖥️🎨🌌✨🌈
 
-![Projekt-Status](https://img.shields.io/badge/Status-Aktiv-brightgreen) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0-orange)
+![Projekt-Status](https://img.shields.io/badge/Status-Aktiv-brightgreen) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-blue) ![Version](https://img.shields.io/badge/Version-4.0-orange)
 
 </div>
 
