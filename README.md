@@ -20,7 +20,7 @@
 
 | Name | GitHub | Role | Contact | Contributions |
 | --- | --- | --- | --- | --- |
-| **[Daniel Sichler aka Darexsh](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Hardware & Firmware Development 🖥️🛠️, Display Integration 🎨 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Firmware, Display UI, Sensor Integration |
+| **[Daniel Sichler aka Darexsh](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Extension & Theme Development 🖥️🎨, UI/UX Design 🌈 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Theme Design, Bookmark Bar Styling, Rainbow Accent, Multi-Browser Compatibility |
 
 * * *
 
