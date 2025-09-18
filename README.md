@@ -102,3 +102,19 @@ Your browser should now have a **dark theme with a rainbow accent** 🌈
     
 
 * * *
+
+📜 License
+----------
+
+This project is licensed under the **MIT License** and was developed as an educational project. You are free to use, modify, and distribute the code and schematics as long as you credit the author:
+
+**Copyright (c) 2025 Daniel Sichler aka Darexsh**
+
+Please include the following notice with any use or distribution:
+
+> Developed by Daniel Sichler aka Darexsh. Licensed under the MIT License. See `LICENSE` for details.
+
+The full license is available in the [LICENSE](LICENSE) file.
+
+* * *
+<div align="center"> <sub>Created with ❤️ by Daniel Sichler</sub> </div>
