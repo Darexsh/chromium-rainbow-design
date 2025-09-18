@@ -1,7 +1,31 @@
 * * *
 
-Chromium Rainbow Dark Design
+<div align="center">
+
+🌈 Chromium Rainbow Dark Design
 ============================
+
+**A custom dark theme with a rainbow accent line on the bookmarks bar**  
+🖥️🎨🌌✨🌈
+
+![Projekt-Status](https://img.shields.io/badge/Status-Aktiv-brightgreen) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0-orange)
+
+</div>
+
+
+* * *
+
+✨ Authors
+---------
+
+| Name | GitHub | Role | Contact | Contributions |
+| --- | --- | --- | --- | --- |
+| **[Daniel Sichler aka Darexsh](https://github.com/Darexsh)** | [Link](https://github.com/Darexsh?tab=repositories) | Hardware & Firmware Development 🖥️🛠️, Display Integration 🎨 | 📧 [E-Mail](mailto:sichler.daniel@gmail.com) | Concept, Firmware, Display UI, Sensor Integration |
+
+* * *
+
+🚀 About the Project
+--------------------
 
 A custom **dark theme for Chromium-based browsers** (Chrome, Edge, Brave, and others) with a subtle rainbow accent line on the bookmarks bar. Also compatible with **Firefox Nightly Dev builds**.
 
